@@ -44,8 +44,9 @@ body, html{
 }
 
 .section-light{
-    background-color: #f4f4f4;
+    background-color: #e28d8d;
     color: #666;
+    opacity: 0.7;
 }
 
 .section-dark{
